@@ -9,8 +9,8 @@ sites:
     url: https://api.manualdoterapeuta.com.br/actuator/info
 
 status-website:
-  cname: monitor.manualdoterapeuta.com.br
-  # baseUrl: /your-repo-name
+#  cname: monitor.manualdoterapeuta.com.br
+  baseUrl: /uptime-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Manual do Terapeuta
   introTitle: "**MTS** Monitoramento do Serviços"
