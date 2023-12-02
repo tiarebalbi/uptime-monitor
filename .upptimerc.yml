@@ -11,6 +11,7 @@ sites:
 status-website:
 #  cname: monitor.manualdoterapeuta.com.br
   baseUrl: /uptime-monitor
+  apiBaseUrl: https://api.github.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Manual do Terapeuta
   introTitle: "**MTS** Monitoramento do Serviços"
