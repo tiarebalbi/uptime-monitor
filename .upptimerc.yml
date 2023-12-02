@@ -9,6 +9,7 @@ sites:
     url: https://api.manualdoterapeuta.com.br/actuator/info
 
 status-website:
+  theme: light
   cname: monitor.manualdoterapeuta.com.br
 #  baseUrl: /uptime-monitor
   apiBaseUrl: https://api.github.com
