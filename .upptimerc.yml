@@ -11,10 +11,10 @@ sites:
 status-website:
   theme: light
   cname: monitor.manualdoterapeuta.com.br
-  themeUrl: https://monitor.manualdoterapeuta.com.br/theme.css
+  themeUrl: https://raw.githubusercontent.com/tiarebalbi/uptime-monitor/master/assets/theme.css
 #  baseUrl: /uptime-monitor
   apiBaseUrl: https://api.github.com
-  logoUrl: https://monitor.manualdoterapeuta.com.br/logo.png
+  logoUrl: https://raw.githubusercontent.com/tiarebalbi/uptime-monitor/master/assets/logo.png
   favicon: https://portal.manualdoterapeuta.com.br/favicon.ico
   name: Manual do Terapeuta
   introTitle: "**MTS** Monitoramento do Serviços"
