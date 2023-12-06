@@ -1,7 +1,7 @@
 url: https://api.manualdoterapeuta.com.br/actuator/info
 status: up
 code: 200
-responseTime: 75
-lastUpdated: 2023-12-05T23:05:40.255Z
+responseTime: 150
+lastUpdated: 2023-12-06T23:05:39.928Z
 startTime: 2023-12-02T00:40:35.401Z
 generator: Upptime <https://github.com/upptime/upptime>
