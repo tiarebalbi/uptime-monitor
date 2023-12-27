@@ -22,17 +22,19 @@
     "url": "https://api.manualdoterapeuta.com.br/actuator/info",
     "icon": "https://icons.duckduckgo.com/ip3/api.manualdoterapeuta.com.br.ico",
     "slug": "manual-do-terapeuta-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 163,
-    "timeWeek": 260,
-    "timeMonth": 278,
-    "timeYear": 278,
-    "dailyMinutesDown": {}
+    "time": 274,
+    "timeDay": 146,
+    "timeWeek": 244,
+    "timeMonth": 274,
+    "timeYear": 274,
+    "dailyMinutesDown": {
+      "2023-12-27": 0
+    }
   }
 ]
